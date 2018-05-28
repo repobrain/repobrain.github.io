@@ -12,4 +12,4 @@ Brian Warmerdam is a software and Android enthusiast. This page contains project
 ## [UsefulEverything](https://github.com/repobrain/UsefulEverything)
 **A collection of useful documentation on everything tech-related.**
 
-*Disclaimer: none of the material in UsefulAndroid was created by me. It only contains links to the original content creators.*
+*Disclaimer: none of the material in UsefulEverything was created by me. It only contains links to the original content creators.*
