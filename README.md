@@ -2,7 +2,7 @@
 
 ## Projects by Brian Warmerdam
 
-Brian Warmerdam is a software and Android enthusiast. This page contains projects created by Brian, as well as resources he uses during the design and development of these projects.  
+Brian Warmerdam is a software and Android enthusiast. This page contains projects created by Brian, as well as resources he uses during the design and development of these projects.
 
 ## [UsefulAndroid](https://github.com/repobrain/UsefulAndroid)
 **A collection of useful documentation on the design and development of Android applications.**
